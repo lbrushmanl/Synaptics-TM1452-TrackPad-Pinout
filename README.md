@@ -1,0 +1,1 @@
+# Synaptics-TM1452-TrackPad-Pinout
